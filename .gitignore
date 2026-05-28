@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / API Keys
+.env
+
+# Large data/index files (common in RAG projects)
+data/
+*.index
+*.db
